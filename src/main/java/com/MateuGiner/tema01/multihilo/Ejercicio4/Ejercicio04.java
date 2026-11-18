@@ -14,5 +14,4 @@ public class Ejercicio04 {
         hilo.start();
         hilo.join();
         System.out.println("Fin del programa");
-    }
 }
