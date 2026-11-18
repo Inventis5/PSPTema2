@@ -1,4 +1,4 @@
-package com.MateuGiner.tema01.multihilo.Ejercicio01;
+package com.MateuGiner.tema01.multihilo.Ejercicio02;
 
 public class Hilo extends Thread {
     @Override
